@@ -55,7 +55,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  rouge (~> 1.0)
+  rouge (= 1.11.1)
   wdm (>= 0.1.0)
 
 RUBY VERSION
